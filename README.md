@@ -65,21 +65,9 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ## 🔥 Contribution Streak
 
-![sarwar-jahin-port's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarwar-jahin-port&theme=vue-dark&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarwar-jahin-port&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img width="600" src="./contributions.png" alt="GitHub Stats" />
+</p>
 
 ---
 
@@ -90,16 +78,21 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ### 🧾 [Ledger Book Frontend](https://github.com/mdarifhussain9122/ledgerbook-frontend)
 [![Ledger Book Frontend](https://github-readme-stats.vercel.app/api/pin/?username=mdarifhussain9122&repo=ledgerbook-frontend&theme=tokyonight&hide_border=true)](https://github.com/mdarifhussain9122/ledgerbook-frontend)
 
-**Tech Stack:** React, Django, PostgreSQL, Tailwind CSS  
-**Features:** User authentication, Shopping cart, Payment integration, Admin dashboard
+**Tech Stack:** React.js, Tailwind CSS, Axios, Chart.js  
+**Features:**  
+- User authentication  
+- Add, edit & delete income/expense entries  
+- Filter by category and date  
+- Visualize expenses via bar and pie charts  
+- Responsive dashboard layout
 
 ---
 
-### 📋 [Task Management App](https://github.com/yourusername/task-management)
-[![Task Management App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=task-management&theme=tokyonight&hide_border=true)](https://github.com/yourusername/task-management)
+### 📋 [Event Management App](https://github.com/sarwar-jahin-port/event_management_django)
+[![Event Management App](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-jahin-port&repo=event_management_django&theme=tokyonight&hide_border=true)](https://github.com/sarwar-jahin-port/event_management_django)
 
-**Tech Stack:** Next.js, Node.js, MongoDB, Socket.io  
-**Features:** Real-time updates, Team collaboration, Project tracking, File sharing
+**Tech Stack:** Django, Django REST Framework, PostgreSQL, TailwindCSS  
+**Features:** Event creation & registration, Role-based access, User dashboard, Email notifications
 
 ---
 
@@ -115,11 +108,9 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ## 🎓 Certifications & Education
 
-- 🎓 **Bachelor's Degree in Computer Science** - [University Name] (Year)
-- 🏆 **AWS Certified Developer** - Amazon Web Services (Year)
-- 🏆 **Google Cloud Professional** - Google Cloud Platform (Year)
-- 🏆 **Meta Front-End Developer** - Meta (Year)
-- 🏆 **Full Stack Web Development** - [Platform/Institution] (Year)
+- 🎓 **Bachelor's Degree in Computer Science** - INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG (2023)
+- 🏆 **Full Stack Web Development** - [Programming Hero] (2024)
+- 🏆 **CSE Fundamentals & Software Development** - [Phitron] (2025)
 
 ---
 

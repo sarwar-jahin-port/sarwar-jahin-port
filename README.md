@@ -73,38 +73,57 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ## 🎯 Featured Projects
 
-<div align="center">
-  
-### 🧾 [Ledger Book Frontend](https://github.com/mdarifhussain9122/ledgerbook-frontend)
-[![Ledger Book Frontend](https://github-readme-stats.vercel.app/api/pin/?username=mdarifhussain9122&repo=ledgerbook-frontend&theme=tokyonight&hide_border=true)](https://github.com/mdarifhussain9122/ledgerbook-frontend)
-
-**Tech Stack:** React.js, Tailwind CSS, Axios, Chart.js  
-**Features:**  
-- User authentication  
-- Add, edit & delete income/expense entries  
-- Filter by category and date  
-- Visualize expenses via bar and pie charts  
-- Responsive dashboard layout
+<table>
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/sarwar-jahin-port/event_management_django">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarwar-jahin-port&repo=event_management_django&theme=tokyonight&hide_border=true" alt="Event Management App" />
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/sarwar-jahin-port/pixello-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarwar-jahin-port&repo=pixello-client&theme=tokyonight&hide_border=true" alt="Pixello Frontend" />
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/sarwar-jahin-port/pixello">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarwar-jahin-port&repo=pixello&theme=tokyonight&hide_border=true" alt="Pixello Backend" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📋 [Event Management App](https://github.com/sarwar-jahin-port/event_management_django)
-[![Event Management App](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-jahin-port&repo=event_management_django&theme=tokyonight&hide_border=true)](https://github.com/sarwar-jahin-port/event_management_django)
-
+### 📋 [Event Management App](https://github.com/sarwar-jahin-port/event_management_django)  
 **Tech Stack:** Django, Django REST Framework, PostgreSQL, TailwindCSS  
-**Features:** Event creation & registration, Role-based access, User dashboard, Email notifications
+**Features:**  
+- Event creation & registration  
+- Role-based access control  
+- User dashboard  
+- Email notifications
 
 ---
 
-### 🌤️ [Weather Dashboard](https://github.com/yourusername/weather-dashboard)
-[![Weather Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=weather-dashboard&theme=tokyonight&hide_border=true)](https://github.com/yourusername/weather-dashboard)
-
-**Tech Stack:** React, Chart.js, Weather API, CSS Modules  
-**Features:** Real-time weather data, Interactive charts, Location-based forecasts
-
-</div>
+### 📱 [Pixello – Frontend](https://github.com/sarwar-jahin-port/pixello-client)  
+**Tech Stack:** React.js, Material UI, Axios, React Router  
+**Features:**  
+- Responsive UI for a modern social media platform  
+- User authentication and profile management  
+- Post creation, feed, and comment interactions  
+- Clean Material Design integration
 
 ---
+
+### 🔧 [Pixello – Backend](https://github.com/sarwar-jahin-port/pixello)  
+**Tech Stack:** Django, Django REST Framework, PostgreSQL  
+**Features:**  
+- Token-based user authentication  
+- CRUD operations for posts and comments  
+- Like and interaction system  
+- Secure, scalable API structure
+
+
 
 ## 🎓 Certifications & Education
 
@@ -114,48 +133,28 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with Custom Hooks](https://yourblog.com/post1)
-- [Optimizing Database Queries for Better Performance](https://yourblog.com/post2)
-- [Introduction to Microservices Architecture](https://yourblog.com/post3)
-- [Best Practices for API Design and Development](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎯 What I'm Working On
 
 - 🔭 **Current Focus:** Building a full-stack social media application with real-time features
 - 🌱 **Learning:** Exploring serverless architecture and advanced DevOps practices
 - 👥 **Open Source:** Contributing to React ecosystem and developer tools
-- 📚 **Goals 2024:** Master cloud architecture, contribute to 10+ open source projects
+- 📚 **Goals 2025:** Master cloud architecture, contribute to 10+ open source projects
 
 ---
 
 ## 💼 Professional Experience
 
-### Senior Full Stack Developer | [Company Name]
-**Duration:** Jan 2023 - Present
-- Led development of enterprise web applications serving 10,000+ users
-- Implemented microservices architecture reducing system downtime by 40%
-- Mentored junior developers and conducted code reviews
+### Full Stack Developer | [Grownext]  
+**Duration:** Jan 2025 - Present  
+- Contributing as a Full Stack Developer on a SaaS product similar to Jira, focused on product management solutions.  
+- Currently leading development of the real-time employee laptop monitoring module.  
+- Collaborating closely with product teams to deliver scalable, high-impact features.
 
-### Full Stack Developer | [Previous Company]
-**Duration:** Jun 2021 - Dec 2022
-- Developed and maintained multiple client projects using React and Node.js
-- Optimized application performance resulting in 50% faster load times
-- Collaborated with cross-functional teams in Agile environment
-
----
-
-## 🏅 Achievements & Recognition
-
-- 🥇 **First Place** - [Hackathon Name] 2023
-- 🏆 **Employee of the Month** - [Company Name] (3 times)
-- 🌟 **Open Source Contributor** - 500+ contributions across various projects
-- 📊 **Tech Speaker** - Presented at [Conference/Meetup Name]
+### Frontend Developer (Volunteer) | [Bangladesh 2024]  
+**Duration:** Jun 2025 - Mar 2025  
+- Volunteered for a national archive project alongside a 20-member team.  
+- Developed and maintained the frontend of the "Data Engine" product using React.js.  
+- Delivered user-centric interfaces to support data collection and management for the project.
 
 ---
 
@@ -180,14 +179,10 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 <div align="center">
   
 ### 📫 Get in Touch
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-### 💖 Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-lac-eight-78.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-jahin-a25437359/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sarwarrjahin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarwarjahin@gmail.com)
 
 </div>
 

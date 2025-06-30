@@ -127,7 +127,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ## 🎓 Certifications & Education
 
-- 🎓 **Bachelor's Degree in Computer Science** - INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG (2023)
+- 🎓 **Bachelor's Degree in Computer Science** - INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG (2024)
 - 🏆 **Full Stack Web Development** - [Programming Hero] (2024)
 - 🏆 **CSE Fundamentals & Software Development** - [Phitron] (2025)
 
